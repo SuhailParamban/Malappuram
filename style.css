@@ -1,0 +1,295 @@
+
+.header-1{
+    width: 100%;
+    
+}
+
+.slider-img{
+    height: 30em;
+}
+
+.card-img-top{
+    height: 10em;
+    /*-webkit-filter: drop-shadow(2px 2px 2px rgb(184, 181, 181)) !important;
+    filter: drop-shadow(3px 3px 3px rgb(17, 14, 14)) !important;*/
+}
+
+.slider-img-fest{
+    height: 23em;
+}
+
+.slider-img-edu{
+    height: 16em;
+}
+.col-6{
+    
+    width: 100% !important;
+}
+/*.row-religion{
+    border: 1px solid;
+    padding: 5px;
+    background: #17a2b8;
+}
+.col-relegion{
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+*/
+/*.row-edu{
+    border: 1px solid;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #17a2b8;
+    
+}
+.col-edu{
+    
+    
+    
+}
+.col-edu-right{
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+*/
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+    color: #fff;
+    background-color: #212529 !important;
+    
+    border-radius: 0.0rem;
+    
+  }
+
+#v-pills-tab-1 .nav-link.active, .nav-pills .show > .nav-link{
+    color: rgb(0, 0, 0);
+    background-color: #dce6f1 !important;
+    /*border-radius: .25rem;*/
+    border-radius: 0.0rem;
+    
+    
+}
+#pills-tab .nav-link.active, .nav-pills .show > .nav-link{
+    border-bottom: 0.2rem solid !important ;
+    /*border-color: rgb(21, 71, 71) !important;*/
+    border-color: #dda60a !important;
+    
+     
+}
+.nav-link{
+    color: #dda60a !important;
+}
+
+
+.edu-card{
+    max-width: 12rem;
+    max-height: 15rem; 
+    float: left;
+    margin-right: 0.5rem;
+}
+#testz{
+    justify-items: center !important;
+    background: #212529 !important;
+    justify-content: center !important;
+}
+
+
+
+#sec-tour .card-body{
+    background: #212529 !important;
+    color: #dda60a !important;
+
+    border: 3px solid rgb(33 37 41);
+}
+
+#sec-tour .card{
+    
+    border: 3px solid rgb(33 37 41) !important;
+    border-radius: 0px;
+}
+
+
+.iframe-details{
+    width: 20rem !important;
+    height: 15rem !important;
+}
+
+.shadow{
+    
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+   /* text-align: center;*/
+}
+#nav-home-tab,#nav-profile-tab{
+    border-radius: 0px !important;
+    color: #dda60a !important;
+}
+
+#carouselExampleDark h5 {
+    font-size: 1.25rem;
+    margin-bottom: -0.0rem !important;
+    color: rgb(42, 41, 45) !important;
+    background: #dfdbd7 ;
+    font-weight: 400 !important;
+    
+   /* text-shadow: 0 1px 0 rgba(22, 13, 13, 0.4) ;*/
+    
+    
+}
+/*.p. {
+    font-size: 0.875rem !important;
+    margin-bottom: 0.2rem !important;
+    line-height: 1.5rem !important;
+    color: #fff !important;
+}*/
+
+#carouselExampleDark p {
+    
+    
+    margin-bottom: -0.5rem !important;
+    line-height: 1.5rem !important;
+    color: rgb(10, 9, 9) !important;
+    
+    font-size: 0.9rem !important;
+    font-weight: 500 !important;
+    /*text-shadow: 1px 1px 2px rgb(44, 41, 41), 0 0 1em rgb(80, 80, 92), 0 0 0.2em rgb(67, 67, 88);*/
+    /*background: #e6e2df;*/
+    background-color: rgba(255,255,255, 0.5) ;
+    text-shadow: 0 1px 0 rgba(22, 13, 13, 0.4) ;
+    border-bottom: 4px solid #dda60a;
+  }
+
+#carouselExampleCaptions p {
+    
+    
+    margin-bottom: -0.5rem !important;
+    line-height: 1.5rem !important;
+    color: rgb(10, 9, 9) !important;
+    
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+    /*text-shadow: 1px 1px 2px rgb(44, 41, 41), 0 0 1em rgb(80, 80, 92), 0 0 0.2em rgb(67, 67, 88);*/
+    /*background: #e6e2df;*/
+    background-color: rgba(255,255,255, 0.5) ;
+    text-shadow: 0 1px 0 rgba(22, 13, 13, 0.4) ;
+  }
+  #carouselExampleCaptions h5 {
+    background-color: #fff ;
+    margin-bottom: 0.0rem !important;
+    color: rgb(0, 0, 0);
+    background: #dfdbd7 ;
+    border-bottom: 4px solid #dda60a;
+    text-shadow: 0 1px 0 rgba(22, 13, 13, 0.4) ;
+  }
+.fa{
+    color: #dda60a;
+}
+
+#test p {
+    padding: 0px !important;
+    
+}
+#arts p{
+    padding: 0px !important;
+}
+
+.culture-img{
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    /*border-bottom: rgba(221,166,10, 0.2)  5px solid  ;*/
+    height: 8rem;
+}
+
+#carouselExampleIndicators2 .card{
+    border: 2px solid rgba(221,166,10, 0.9);
+    border-radius: 0px;
+}
+a{
+    text-decoration: none !important;
+    color: #fdfeff !important;
+    
+}
+ /*
+#v-pills-messages .tab-content> .active, .show{
+    
+    max-width: 25rem !important;
+  }
+
+  #v-pills-messages p, a, h1{
+    
+    padding: 0.7rem !important;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #bb9f4e !important;
+}
+*/
+/*
+#v-pills-tabs > .active, .show {
+    
+    max-width: 25rem !important;
+    
+  }
+
+  #v-pills-tabs p {
+    padding: 0.7rem !important;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #bb9f4e !important;
+}
+*/
+#v-pills-tab-Content .card-li {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #f5faff !important;
+    min-width: 8rem !important;
+    
+}
+
+
+
+#tourismDiv p{
+    padding: 0px !important;
+    font-size: .8rem !important;
+    text-indent: 0.5cm !important;
+    text-align: left !important;
+    text-justify:inter-word !important;
+}
+
+#tourismDiv .card-body{
+    padding-left: 0.7rem !important;
+    padding-right: 0.5rem !important;
+}
+.text-culture-h{
+    padding-bottom: 0px !important;  
+    line-height: 1.2rem !important;
+}
+.text-culture-p{
+    padding-bottom: 0px !important; 
+    font-size: 12px !important; 
+    line-height: 1.2rem !important;
+    padding-top: 0px !important;
+    
+}
+
+.nav-border{
+    border-right: 0.2rem solid;
+    /*border-left: 0.2rem solid;*/
+}
+.height-card-cult{
+    height: 22.5rem !important;
+}
+
+#footer a {
+    padding: 0px !important;
+    display: inline;
+}
+#profile-mlp a{
+    padding: 0px !important;
+    display: inline;
+}
